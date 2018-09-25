@@ -1,6 +1,3 @@
-# my solutions to kaggle competitions 
-
-
 # Keras Deep Learning Classifier
 
 I have used Transfer learning by using the feature extracted by Resnet50
